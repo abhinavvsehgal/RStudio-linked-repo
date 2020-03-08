@@ -1,2 +1,2 @@
 # RStudio-linked-repo
-Repository linked with RStudio 
+Repository linked with RStudio.
